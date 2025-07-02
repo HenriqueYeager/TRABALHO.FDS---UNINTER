@@ -1,0 +1,60 @@
+
+body{
+    background-color:beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px; 
+}
+
+h1{
+    color: chartreuse;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+ul{
+    line-height: 2.1;
+}
+
+img{
+    width: 650px;
+    height: auto;
+    border-radius: 10px;
+}
+
+table{
+    border-collapse: collapse;
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+
+
+}
+
+table td{
+    border: 2px solid #000000;
+    padding: 2px;
+    text-align: center;
+}
+
+a{
+    color: blue;
+    text-decoration:double;
+}
+
+a:hover{
+    color: darkorange;
+    text-decoration: underline;
+}
+
+#mensagem{
+    margin-top: 10px;
+    font-weight: bold;
+    color: limegreen;
+}
+
